@@ -8,6 +8,8 @@ TagManager:
   - gold
   - target
   - ball
+  - start
+  - end
   layers:
   - Default
   - TransparentFX
