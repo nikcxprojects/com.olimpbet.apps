@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307361195831",
+    "project_id": "betanapostas",
+    "storage_bucket": "betanapostas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307361195831:android:d8ce8be127f453b1aadcb2",
+        "android_client_info": {
+          "package_name": "com.betano.gamess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307361195831-fm1kum134lq07md4dtcquf1kc5u80r69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQxdN67TVg0tX7AVbCB-t0gtIexevZ10o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307361195831-fm1kum134lq07md4dtcquf1kc5u80r69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
